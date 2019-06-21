@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+}
+p{
+  margin: 0;
+}
+
+.header {
+  background: #29487d;
+  Color : #ffffff;
+}
+#fb {
+  font-weight: bold;
+  font-size: 2.5 rem;
+  margin-top: 8px;
+}
+.container {
+  width: 60%;
+  margin: auto;
+  display: flex;
+}
+.aHalfwidth {
+  width: 50%;
+}
+.wrapLogo {
+  /*width: 50%;*/
+}
+.wrapSignIn {
+  /*width: 50%;*/
+  display: flex;
+}
+.d-flex {
+  display: flex;
+}
+.wrapEmail {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.flex-column {
+  flex-direction: column;
+}
+.wrapPassword {
+  margin: 0 8px;
+  /*flex-direction: column;*/
+}
+.wrapEmail {
+ /* flex-direction: column;*/
+ margin: 0 8px;
+}
+.wrapBtnLogIn {
+  justify-content: center;
+}
+#wrapDaftar {
+  font-size: 36px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  margin-top: 10px;
+  color: #333;
+  line-height: 1.34;
+}
+#wrapGratis {
+color: #1d2129;
+font-size: 19px;
+line-height: 1.34;
+margin-bottom: 15px;
+line
+}
+#wrapNamaDepan {
+border-radius: 4px;
+font-size: 18px;
+padding: 8px 2;px;
+line-height :1.34; 
+
+}
+
+#wrapNamaBelakang
+{
+border-radius: 4px;
+font-size: 18px;
+padding: 8px 2px;
+}
+
+#wrapNomorAtauEmail
+{
+  border-radius: 4px;
+  font-size: 18px;
+  padding: 8px 2px;
+  width: 100%; 
+}
+
+#wrapKataSandi
+{
+  border-radius: 4px;
+  font-size: 18px;
+  padding: 8px 2px;
+  width: 100%;
+  margin-bottom: 30px;  
+}
